@@ -1,2 +1,2 @@
 #!/bin/bash
-tail /etc/passwrd
+sudo tail /etc/passwrd
